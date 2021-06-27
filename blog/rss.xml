@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Yozora Blog</title>
+        <link>https://yozora.guanghechen.com/blog</link>
+        <description>Yozora Blog</description>
+        <lastBuildDate>Mon, 08 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 guanghechen.</copyright>
+        <item>
+            <title><![CDATA[Hello Yozora]]></title>
+            <link>https://yozora.guanghechen.com/blog/hello</link>
+            <guid>hello</guid>
+            <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Test $\displaystyle E=m\cdot c^2$]]></description>
+        </item>
+    </channel>
+</rss>

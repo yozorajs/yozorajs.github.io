@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yozora.guanghechen.com/blog</id>
+    <title>Yozora Blog</title>
+    <updated>2021-02-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yozora.guanghechen.com/blog"/>
+    <subtitle>Yozora Blog</subtitle>
+    <icon>https://yozora.guanghechen.com/img/favicon.ico</icon>
+    <rights>Copyright © 2021 guanghechen.</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Yozora]]></title>
+        <id>hello</id>
+        <link href="https://yozora.guanghechen.com/blog/hello"/>
+        <updated>2021-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Test $\displaystyle E=m\cdot c^2$]]></summary>
+    </entry>
+</feed>
