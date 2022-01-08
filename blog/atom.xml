@@ -7,13 +7,16 @@
     <link rel="alternate" href="https://yozora.guanghechen.com/blog"/>
     <subtitle>Yozora Blog</subtitle>
     <icon>https://yozora.guanghechen.com/img/favicon.ico</icon>
-    <rights>Copyright © 2021 guanghechen.</rights>
+    <rights>Copyright © 2022 guanghechen.</rights>
     <entry>
         <title type="html"><![CDATA[Hello Yozora]]></title>
         <id>hello</id>
         <link href="https://yozora.guanghechen.com/blog/hello"/>
         <updated>2021-02-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Test $\displaystyle E=m\cdot c^2$]]></summary>
+        <content type="html"><![CDATA[<p>Test $\displaystyle E=m\cdot c^2$</p><p>:::info
+waw.
+:::</p>]]></content>
         <author>
             <name>guanghechen</name>
             <uri>https://github.com/guanghechen</uri>
