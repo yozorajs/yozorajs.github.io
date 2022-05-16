@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_yozora_doc=self.webpackChunk_yozora_doc||[]).push([[1713],{53457:function(o){o.exports=JSON.parse('[{"label":"Yozora","permalink":"/blog/tags/yozora","count":1}]')}}]);
