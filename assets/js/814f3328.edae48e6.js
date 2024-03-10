@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_yozora_doc=self.webpackChunk_yozora_doc||[]).push([[5512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello Yozora","permalink":"/blog/hello","unlisted":false}]}')}}]);
