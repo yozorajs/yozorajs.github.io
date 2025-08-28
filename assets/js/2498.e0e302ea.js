@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_yozora_doc=self.webpackChunk_yozora_doc||[]).push([[2498],{92498:(e,c,r)=>{r.d(c,{createArchitectureServices:()=>a.S});var a=r(73009);r(58198)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_yozora_doc=self.webpackChunk_yozora_doc||[]).push([[6335],{98716:(e,c,a)=>{a.d(c,{createPacketServices:()=>o.$});var o=a(59811);a(58198)}}]);

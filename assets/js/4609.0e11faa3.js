@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_yozora_doc=self.webpackChunk_yozora_doc||[]).push([[4609],{4609:(e,o,s)=>{s.r(o),s.d(o,{default:()=>c});var t=s(96540),n=s(9703),r=s(74848);class d extends t.Component{static displayName="CodeRendererMarkdown";render(){const{code:e}=this.props;return(0,r.jsx)(n.W,{content:e})}shouldComponentUpdate(e){return this.props.code!==e.code}}const c=d}}]);

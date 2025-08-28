@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_yozora_doc=self.webpackChunk_yozora_doc||[]).push([[8947],{56600:e=>{e.exports=JSON.parse('{"authors":[{"name":"guanghechen","title":"personal blog","url":"https://github.com/guanghechen","imageURL":"https://avatars.githubusercontent.com/u/42513619?s=60&v=4","key":"guanghechen","page":null,"count":1}]}')}}]);
